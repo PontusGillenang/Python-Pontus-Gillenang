@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Scratch paper file
-Exercises/Exercise-scratch-paper.ipynb
+# Scratch papers
+*scratch-paper.ipynb
+*scratch-paper.py
